@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4f81bc</color>
+    <color name="colorPrimaryDark">#c0504e</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="severityColor">#4f81bc</color>
+    <color name="issueTypeColor">#cbc0d9</color>
+    <color name="totalDark">#c0504e</color>
+    <color name="totalLight">#da9695</color>
+    <color name="dataCell">#f1dcdb</color>
+
+    <color name="buttonPressed">#666666</color>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Issue Counter</string>
+    <string name="init_value">" 0 "</string>
+    <string name="total">Total</string>
+    <string name="technical_mistake">Technical Mistake</string>
+    <string name="wrong_expression">Wrong Expression</string>
+    <string name="typo">Typo</string>
+    <string name="amount">Amount</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="minor">Minor</string>
+    <string name="major">Major</string>
+    <string name="critical">Critical</string>
+    <string name="clean_the_table">Clean the Table</string>
+</resources>
